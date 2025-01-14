@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Circumspect</string>
+    <string name="motivation_text">Made by Skyghost090 (github)\n\nTrack and trace system processes with real-time logs, alerts, and visualizations.</string>
+</resources>
